@@ -1,0 +1,5 @@
+1. express
+2. dotenv
+3. express-session
+4. Mongoose
+5. express-flash
